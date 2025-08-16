@@ -18,6 +18,4 @@ To address this critical issue, our project proposes the design and development 
 
 # Project Demo:- https://www.youtube.com/watch?v=Zdr2R3x271k
 =======
-# smart-medical-dispenser
-A system designed to automatically dispense medicines at the correct time with alerts. It uses a microcontroller, real-time clock, buzzer, and servo motor to remind patients and deliver the right dose. Helpful for elderly or chronically ill patients to manage their medication on time.
->>>>>>> 6789c2797828e31a3832346891f3d29ff71e3253
+
